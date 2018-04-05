@@ -1,4 +1,4 @@
-# CustomImageView
+# Custom Image View
 Custom Image View with capability of setting image url from xml
 
 Simple Image View class extended from Image View to support data binding in Android.
@@ -34,4 +34,4 @@ And you are good to go to use it as your image view in xml.
              app:url="@{invoice.invoiceLogoLink}"/>  //for data binding purpose
 ```
 
-# Cheers
+#### Cheers
